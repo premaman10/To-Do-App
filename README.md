@@ -6,6 +6,7 @@ The To-Do List project is a web application designed to help users organize and 
 2.CSS
 
 3.Javascript
+
 ## Features
 1.Add Tasks : Users can add new tasks to the list.
 
@@ -16,6 +17,5 @@ The To-Do List project is a web application designed to help users organize and 
 4.Mark Tasks as Completed : Users can mark tasks as completed or toggle their completion status.
 
 5.Local Storage : Task data is stored locally in the browser, allowing users to persist their tasks across sessions.
-
-##Demo
+## Demo
 https://premaman10.github.io/To-Do-App/
